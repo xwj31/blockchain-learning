@@ -1,0 +1,8 @@
+{
+  "name": "blockchain-learning",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/xwj31/blockchain-learning.git",
+  "author": "xwj31 <william@hove.capital>",
+  "license": "MIT"
+}
