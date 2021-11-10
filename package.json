@@ -2,7 +2,15 @@
   "name": "blockchain-learning",
   "version": "1.0.0",
   "main": "index.js",
+  "scripts": {
+    "dev": "tsc -w",
+    "start": "tsc && node ."
+  },
   "repository": "https://github.com/xwj31/blockchain-learning.git",
   "author": "xwj31 <william@hove.capital>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^16.11.7",
+    "typescript": "^4.4.4"
+  }
 }
